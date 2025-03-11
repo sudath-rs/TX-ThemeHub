@@ -1,7 +1,5 @@
 # TX-ThemeHub
 TX-UI Panel Subscription Page Templates Designed By TX Community.
-# Creating a Custom Template for the Subscription Page
-
 ## Usable Variables:
 
 | Variable    | Description                                   |
@@ -17,6 +15,9 @@ TX-UI Panel Subscription Page Templates Designed By TX Community.
 | `sId`      | Returns the subscription user ID.           |
 | `subUrl`   | Gets the full subscription URL.             |
 
+example ```html
+<div>sub url is : {{ .subUrl }}</div>
+```
 ## Steps to Implement:
 
 1. Design an HTML page and name it **sub.html**.  
