@@ -15,7 +15,8 @@ TX-UI Panel Subscription Page Templates Designed By TX Community.
 | `sId`      | Returns the subscription user ID.           |
 | `subUrl`   | Gets the full subscription URL.             |
 
-example ```html
+**example**
+```html
 <div>sub url is : {{ .subUrl }}</div>
 ```
 ## Steps to Implement:
