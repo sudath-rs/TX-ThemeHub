@@ -1,5 +1,10 @@
 # TX-ThemeHub
+
 TX-UI Panel Subscription Page Templates Designed By TX Community.
+## Quick Install
+
+you can install pre-designed user themes as your sub custom ui using below command in termina:
+
 ## Usable Variables:
 
 | Variable    | Description                                   |
