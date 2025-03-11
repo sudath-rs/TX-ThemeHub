@@ -1,9 +1,13 @@
 # TX-ThemeHub
 
 TX-UI Panel Subscription Page Templates Designed By TX Community.
+
 ## Quick Install
 
-you can install pre-designed user themes as your sub custom ui using below command in termina:
+you can install pre-designed user themes as your sub custom ui using below command in terminal:
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/AghayeCoder/tx-themehub/master/install.sh)
+```
 
 ## Usable Variables:
 
@@ -24,6 +28,7 @@ you can install pre-designed user themes as your sub custom ui using below comma
 ```html
 <div>sub url is : {{ .subUrl }}</div>
 ```
+
 ## Steps to Implement:
 
 1. Design an HTML page and name it **sub.html**.  
